@@ -17,3 +17,4 @@ usethis::use_git_config(
 )
 usethis::use_github()
 usethis::use_github(private = TRUE)
+
